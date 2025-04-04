@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-id",
+  "private_key_id": "b62e0c9a5c2d20a3bb4cd7f3f12345678ab9d015",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEpAIBAAKCAQEA7R8o0J0VR8Khf5uR2RvcFZC8Jc8gNxZHYj3M9IHqJFDjy8bb\nz2hdn4wJYd/BQXyy+Iwl2BKm54ZkWKnz5HbchCEyAxQw5wTYj0w+vxH2QJB9sAv6\n9WfWJ8GozGiPtn7D3NE6cP1v0uQ15yyD4OnlWk6pCfi/KVz7K13RLK0olx1D9i1v\nj1D7FGw5kQgUwXyCuwNlCsmTSYKwZrtRpVmxqvWxUmX0C1HbW6eJylFkPmoHv4lg\n1QdLMpGkOlKYmNmxoYPYsqZgFwpOjBFdrQ4gxO9V9kpNhhS6gYlgUlNkJxyLaM2n\nUn0ep9SVgQ9Oa0Rh6t6VrOrw6+4HW8g89YXbWoThA0CZGZgcmf8B+aJsswMVD7im\n8oKo3zL2fhWDFWq9ybwIEqF5Zr61tHj3+uO6tpKKY+8FgE3rEwIDAQABAoIBABpX\nB4h5ajOShwSy87Yf3hXoM7bxskIgklzz17TY64kloIa+uQIh0N+cnp9+kTCcU7kN\ntIZcsYcWpw4mNwmjqyEBWGUPoDC5UzFz4ALfM7ZyUR+c/zXg0cHTFsdh/qcbxh77\nGpBBfnw5xt0Rp1dszImOBo3/75W9/Z5rtSxfl9xFCOwGxJskXHZH1nL9nkHkF5Zj\nPB4JHR1mpkXgQh2e2ZJvS6ZVFOdQshHpQx3lT1BZyS0jxuvYkSvlPylga4qolO0\nnbIRV1+TeHYyFb6rdmFhH/y1gfV9Ot8uVo9xFOUuFG2I62MZyWs98z9Ez6h3nzWT\nnPGrQgdDlmMyv1jCGhZYzNFPJgg4v5waDYztCk+7vAkzqJfwzDB0a0SHR7qmfWdy\nh8XtNgUShkm2Tjzpr3jbxsdZT9npBxF5LfRU5oAw3hThS/qkcFPV2ztWYhFzMIrx\nkM6rgZI4lPIZ7A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@my-project-id.iam.gserviceaccount.com",
+  "client_id": "107153299049670417252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40my-project-id.iam.gserviceaccount.com"
+}
